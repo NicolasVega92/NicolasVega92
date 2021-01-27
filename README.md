@@ -7,7 +7,7 @@
 - I’m currently learning Java and Spring. 
 - C and C ++ are languages ​​that we study in college.
 
-- 💬 I’m looking to collaborate on una empresa desde el lado de back-end
+- 💬 I am looking to collaborate in a company from the back-end side
 
 ### Skills:<br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
