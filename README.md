@@ -1,8 +1,7 @@
 <!--
 **NicolasVega92/NicolasVega92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Hi there 👋
-## My name is Nicolás Vega
+## Hi there 👋, my name is Nicolás Vega
 
 - I am a student at the National Technological University (UTN) in the programming career and day by day I seek to continue learning.
 - I’m currently learning Java and Spring. 
