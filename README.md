@@ -18,7 +18,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-3DDC84?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()<br>
 More under construction 😄
 
-### ⚡ Fun fact: <br>I have a degree in psychology and a teacher
+### ⚡ Fun fact: <br>I have a degree in psychology
 
 ### 📫 Find me at: <br>
 [![Instagram](https://img.shields.io/badge/Instagram-@nicovegag-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nicovegag)<br>
