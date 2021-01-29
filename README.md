@@ -11,8 +11,8 @@
 
 ### ⚡ Skills:<br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![C](https://img.shields.io/badge/C-FA7343?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-999999?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1575F9?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-3DDC84?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()<br>
