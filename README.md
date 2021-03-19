@@ -14,7 +14,9 @@ https://nicolasvega92.github.io/
 
 ### ⚡ Skills:<br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+<img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 [![C](https://img.shields.io/badge/C-FA7343?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
+[![.NET](https://img.shields.io/badge/NET-AED6F1?style=for-the-badge&logo=.NET&logoColor=blue&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-999999?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1575F9?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
