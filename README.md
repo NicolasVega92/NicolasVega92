@@ -4,8 +4,7 @@
 ## Hi there 👋, my name is Nicolás Vega
 
 - I am a student at the National Technological University (UTN) in the programming career and day by day I seek to continue learning.
-- I am currently learning Java and Spring on my own.
-- C ; C# ; .NET are languages that we study in college. Also SQL Server.
+- At the moment I am training in C #, .NET and EntityFramework. Also SQL Server.
 
 - 💬 I am looking to collaborate in a company on its back-end
 
